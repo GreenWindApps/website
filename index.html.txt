@@ -1,0 +1,12 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Welcome</title></head><body>
+<div style="text-align: center;"><big><big><big><big><big><br>
+<br>
+<span style="color: rgb(0, 153, 0);">Welcome </span><br style="color: rgb(0, 153, 0);">
+<span style="color: rgb(0, 153, 0);">to </span><br style="color: rgb(0, 153, 0);">
+<span style="color: rgb(0, 153, 0);">GreenWind Apps</span><br>
+
+
+</big></big></big></big></big></div>
+</body></html>
